@@ -11,6 +11,6 @@
 
 ---
 
-### Screenshot:
+### Screenshots:
 
 ![img.png](Screenshots/ytclone.png)
