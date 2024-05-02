@@ -1,6 +1,16 @@
-# YouTube-clone
+<h1 align="center">YouTube Clone</h1> <br>
 
-This is a simple YouTube clone built using HTML and CSS.
-This is not a fully functional YouTube clone.
+<p align="center">
+  This is a simple YouTube clone built using HTML and CSS. This is not a fully functional YouTube clone.
+</p>
 
+---
+<p align="center">
+  HTML | CSS
+</p>
 
+---
+
+### Screenshot:
+
+![img.png](Screenshots/ytclone.png)
